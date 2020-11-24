@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\Remainder-Application\Remainder-Application\bin\Debug\Remainder-Application.exe.config
+C:\Users\User\source\repos\Remainder-Application\Remainder-Application\bin\Debug\Remainder-Application.exe
+C:\Users\User\source\repos\Remainder-Application\Remainder-Application\bin\Debug\Remainder-Application.pdb
+C:\Users\User\source\repos\Remainder-Application\Remainder-Application\obj\Debug\Remainder-Application.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Remainder-Application\Remainder-Application\obj\Debug\Remainder_Application.Form1.resources
+C:\Users\User\source\repos\Remainder-Application\Remainder-Application\obj\Debug\Remainder_Application.Properties.Resources.resources
+C:\Users\User\source\repos\Remainder-Application\Remainder-Application\obj\Debug\Remainder-Application.csproj.GenerateResource.cache
+C:\Users\User\source\repos\Remainder-Application\Remainder-Application\obj\Debug\Remainder-Application.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Remainder-Application\Remainder-Application\obj\Debug\Remainder-Application.exe
+C:\Users\User\source\repos\Remainder-Application\Remainder-Application\obj\Debug\Remainder-Application.pdb
